@@ -1,7 +1,7 @@
 ## Hi, I'm Linda
 
 I specialize in finding patterns in complex data and translating them into decisions that improve performance.
-Experience in Underground and Open-pit mining operations, oil and gas production, and continuous improvement.
+Experience in Underground and Open-pit mining operations, Oil and Gas production, and Continuous Improvement.
 Worked across the full data lifecycle — from data collection and validation to analysis, visualization, and decision support.
 MSc Petroleum Geoscience
 Work with Equinor Specialist, applying geoscience principles with Python for Reservoir Characterization and Gas flow Simulations in the Norwegian Sea to quantify risks for production and well abandonment scenarios
