@@ -24,7 +24,7 @@ Work with Equinor Specialist, applying geoscience principles with Python for Res
 - OPM Flow
 
 ## 🌱 I’m currently working on 
-Applying technical expertise and analytical thinking to energy, mining, and industrial operations to create measurable business impact.
+Applying technical skills, analytical thinking, and continuous improvement to energy, mining, and industrial operations to create a safe workplace and measurable business impact.
 
 
  
