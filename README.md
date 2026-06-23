@@ -1,4 +1,4 @@
-## Hi, I'm Linda
+## Hei, I'm Linda
 
 I specialize in finding patterns in complex data and translating them into decisions that improve performance.
 Experience in Oil and Gas production, Underground and Open-pit mining operations, and Continuous Improvement.
@@ -13,15 +13,19 @@ Work with Equinor Specialist, applying geoscience principles with Python for Res
 - Process Improvement initiatives, Business Performance reporting, and Data Analytics projects
 
 ## 👩🏽‍🔬 Tools Used
+# Data
 - Microsoft Excel
+- Python
+- Jupyter
 - SQL
 - Power BI
-- Python
+# Subsurface  
 - Petrel for seismic interpretation
 - Techlog and Interactive Petrophysics (IP) for well log interpretation
 - GeoX and PetroMod for petroleum systems and prospect evaluation
-- ResInsight
-- OPM Flow
+- ResInsight - Dynamic simulation
+- OPM Flow - Dynamic simulation
+
 
 ## 🌱 I’m currently working on 
 Applying technical skills, analytical thinking, and continuous improvement to energy, mining, and industrial operations to create a safe workplace and measurable business impact.
