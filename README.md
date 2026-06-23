@@ -13,13 +13,13 @@ Work with Equinor Specialist, applying geoscience principles with Python for Res
 - Process Improvement initiatives, Business Performance reporting, and Data Analytics projects
 
 ## 👩🏽‍🔬 Tools Used
-# Data
+    # Data
 - Microsoft Excel
 - Python
 - Jupyter
 - SQL
 - Power BI
-# Subsurface  
+    # Subsurface  
 - Petrel for seismic interpretation
 - Techlog and Interactive Petrophysics (IP) for well log interpretation
 - GeoX and PetroMod for petroleum systems and prospect evaluation
