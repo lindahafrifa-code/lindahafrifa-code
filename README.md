@@ -5,7 +5,8 @@ interpretating them into actionable insights for easy decision making that impro
 
 Experience in Oil and Gas production, Underground and Open-pit mining operations, and Continuous Improvement.
 Worked across the full data lifecycle: data collection and validation to analysis, visualization, and decision support.
-MSc Petroleum Geoscience. Lean six sigma professional. 
+
+MSc Petroleum Geoscience. Lean six sigma professional. Data Analytics Certification.
 Work with Equinor Specialist, applying geoscience principles with Python for Reservoir Characterization and Gas flow Simulations in the Norwegian Sea to quantify risks for production and well abandonment scenarios
 
 ## What I work with
