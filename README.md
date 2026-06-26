@@ -9,12 +9,13 @@ Worked across the full data lifecycle: data collection and validation to analysi
 MSc Petroleum Geoscience. Lean six sigma professional. Data Analytics Certification.
 Work with Equinor Specialist, applying geoscience principles with Python for Reservoir Characterization and Gas flow Simulations in the Norwegian Sea to quantify risks for production and well abandonment scenarios
 
-## What I work with
+## Key to do list
 - Geological and geophysical interpretation, Ore modelling, Drilling and Production analysis
 - Seismic interpretation, Well log, Core data, Static and Dynamic Reservoir modelling
-- Supervised and Unsupervised Machine Learning (Python/Jupyter notebook) for geoscience
-to predict lithology and porosity, identify hidden patterns in well log data, and reduce reservoir model uncertainty
-- Process Improvement initiatives, Business Performance reporting, and Data Analytics projects
+- Supervised and Unsupervised Machine Learning (Python/Jupyter notebook) for geoscience : predict lithology and porosity, identify hidden patterns in well log data, and reduce reservoir model uncertainty
+- Process Improvement initiatives
+- Business Performance reporting
+- Data Analytics projects : whats happening? why its happening? how to solve it and prevent future predictive occurance?
 
 ## 👩🏽‍🔬 Tools Used
 - Artificail Interligence (Generative AI)
