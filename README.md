@@ -1,6 +1,6 @@
 ## Hei, I'm Linda
 
-I specialize in finding patterns in complex data and translating them into decisions that improve performance.
+I'm curious and enjoy finding patterns in complex data and translating them into decisions that improve performance.
 Experience in Oil and Gas production, Underground and Open-pit mining operations, and Continuous Improvement.
 Worked across the full data lifecycle — from data collection and validation to analysis, visualization, and decision support.
 MSc Petroleum Geoscience
