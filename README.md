@@ -2,6 +2,7 @@
 
 I'm curious and enjoy finding patterns in complex data (subsurface geoscience and production data, mining geology and operations) and 
 interpretating them into actionable insights for easy decision making that improve performance. 
+
 Experience in Oil and Gas production, Underground and Open-pit mining operations, and Continuous Improvement.
 Worked across the full data lifecycle — from data collection and validation to analysis, visualization, and decision support.
 MSc Petroleum Geoscience. Lean six sigma professional. 
