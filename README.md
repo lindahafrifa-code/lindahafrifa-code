@@ -4,4 +4,4 @@ I work at the intersection of petroleum geoscience and data analytics using Pyth
 My MSc thesis characterised the Nise Formation on the Norwegian Continental Shelf building a 2.25 million cell 3D grid from scratch in Python, 
 running stochastic property modelling, and simulating gas flow across three well placement scenarios.
 
-Currently building a Volve field analytic portfolio and targeting graduate programmes with Norwegian operators.
+Currently building and sharpening my skills. 
