@@ -1,4 +1,4 @@
-Petroleum Geoscientist | MSc NTNU | Subsurface Data & Reservoir Modelling
+Petroleum Geoscientist | MSc NTNU | Subsurface Data, E&P, Reservoir Modelling
 
 I work as a petroleum geoscientist using subsurface tools like Python, Petrel, OPM Flow, and ResInsight to turn subsurface data into decisions.
 
